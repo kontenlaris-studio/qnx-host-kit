@@ -1,0 +1,6 @@
+/tmp/demo_app; echo RUN_EXIT=$?
+demo_app: waiting for 1000 pulses at 10000000 ns period
+demo_app: received 1000 pulses
+demo_app: mean jitter 160395 ns, max jitter 11364742 ns
+RUN_EXIT=0
+# 
