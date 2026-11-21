@@ -134,3 +134,7 @@ full project layout, and that `check` passes the scaffolded project
 ## License
 
 MIT — see `LICENSE`. © 2026 Kontenlaris Studio.
+
+## Demo video
+
+Watch the 2:31 demo (public): https://www.youtube.com/watch?v=jzcTUNwrRXk — scaffold → qcc build → QNX 8.0 QEMU boot → in-guest run → analyze → check, all real output. Live verification logs: see `evidence/`.
