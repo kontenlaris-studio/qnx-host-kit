@@ -1,6 +1,6 @@
 # Devpost Submission Draft — QNX Global Hackathon 2026
 
-> Fill in the two placeholders before submitting: **[REPO URL]** and **[VIDEO URL]**.
+> Fill in the two placeholders before submitting: **https://github.com/kontenlaris-studio/qnx-host-kit** and **[VIDEO URL]**.
 
 ---
 
@@ -65,7 +65,7 @@ Everything in this project was created new during the QNX Global Hackathon 2026 
 ### Try it
 
 ```bash
-git clone [REPO URL]
+git clone https://github.com/kontenlaris-studio/qnx-host-kit
 cd qnx-host-kit
 python3 qnxhostkit.py scaffold ~/hello-qnx --name hello-qnx
 python3 qnxhostkit.py analyze examples/sample.slog2
@@ -76,7 +76,7 @@ No installation, no dependencies, no network access required.
 
 ## Links
 
-- **Code repository:** [REPO URL]
+- **Code repository:** https://github.com/kontenlaris-studio/qnx-host-kit
 - **Demo video (< 3 min):** [VIDEO URL]
 - **Codelab:** see `docs/codelab.md` in the repository
 
